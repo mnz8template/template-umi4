@@ -7,13 +7,12 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "@umijs/plugins": "^4.0.66",
-    "antd": "^5.4.4",
-    "umi": "^4.0.66"
+    "antd": "^5.4.6",
+    "umi": "^4.0.67"
   },
   "devDependencies": {
-    "@types/react": "^18.0.38",
-    "@types/react-dom": "^18.0.11",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
     "typescript": "^5.0.4"
   }
 }
